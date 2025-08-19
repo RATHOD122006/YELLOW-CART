@@ -28,7 +28,7 @@
     background: transparent;
     font-size: 16px;
     color: #49557e;
-    border: 1px solid tomato;
+    border: 1px solid #efb448;
     padding: 10px 30px;
     border-radius: 50px;
     cursor: pointer;
@@ -36,7 +36,7 @@
 }
 
 .navbar button:hover{
-    background-color:#fff4f2;
+    background-color:#e6ae4db0;
 }
 
 .navbar .active{
@@ -57,7 +57,7 @@
     position: absolute;
     min-width: 10px;
     min-height: 10px;
-    background-color: tomato;
+    background-color: #efb448;
     border-radius: 5px;
     top: -8px;
     right: -8px;
